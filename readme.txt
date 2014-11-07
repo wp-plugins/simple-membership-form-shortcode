@@ -4,7 +4,7 @@ Donate link: https://simple-membership-plugin.com/
 Tags: users, member, members, membership, access, registration, form, shortcode
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 
 Simple Membership Addon to generate registration form shortcode for specific membership access level.
@@ -34,6 +34,9 @@ Check the following page for screenshots:
 https://simple-membership-plugin.com/simple-membership-registration-form-shortcode-generator/
 
 == Changelog ==
+
+= 1.1 =
+* Fixed an issue with the admin menu link going to 404 page.
 
 = 1.0 =
 * First commit to wordpress.org
