@@ -3,7 +3,7 @@ Contributors: smp7, wp.insider
 Donate link: https://simple-membership-plugin.com/
 Tags: users, member, members, membership, access, registration, form, shortcode
 Requires at least: 3.8
-Tested up to: 4.0
+Tested up to: 4.2
 Stable tag: 1.1
 License: GPLv2 or later
 
